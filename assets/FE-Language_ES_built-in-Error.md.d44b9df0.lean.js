@@ -1,0 +1,1 @@
+import{_ as r,c as e,o,a as t}from"./app.9dbb06c5.js";const u='{"title":"Error","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/ES/built-in-Error.md"}',a={},c=t("",2),i=[c];function _(d,l,n,s,p,E){return o(),e("div",null,i)}var f=r(a,[["render",_]]);export{u as __pageData,f as default};

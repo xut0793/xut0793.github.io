@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as n,a as s}from"./app.9dbb06c5.js";const h='{"title":"\u6587\u6863\u6839\u5143\u7D20 html","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/HTML/5-html.md"}',e={},p=s("",6),o=[p];function c(l,u,r,i,_,d){return n(),t("div",null,o)}var m=a(e,[["render",c]]);export{h as __pageData,m as default};

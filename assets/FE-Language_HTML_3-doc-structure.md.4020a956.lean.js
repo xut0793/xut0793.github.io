@@ -1,0 +1,1 @@
+import{_ as a,c as n,o as s,a as t}from"./app.9dbb06c5.js";const _='{"title":"HTML \u6587\u6863\u7ED3\u6784\uFF08\u9AA8\u67B6\uFF09","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/HTML/3-doc-structure.md"}',p={},o=t("",5),e=[o];function c(l,u,k,i,g,d){return s(),n("div",null,e)}var h=a(p,[["render",c]]);export{_ as __pageData,h as default};

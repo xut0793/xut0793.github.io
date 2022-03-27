@@ -1,0 +1,1 @@
+import{_ as e,c as n,o as a,a as s}from"./app.9dbb06c5.js";const f='{"title":"\u58F0\u660E\u6587\u4EF6 Declaration","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/TS/declaration.md"}',o={},t=s("",17),c=[t];function p(l,r,i,d,u,k){return a(),n("div",null,c)}var g=e(o,[["render",p]]);export{f as __pageData,g as default};

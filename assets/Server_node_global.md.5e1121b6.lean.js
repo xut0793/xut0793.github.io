@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as r,a as d}from"./app.9dbb06c5.js";const g='{"title":"global \u5168\u5C40\u53D8\u91CF","description":"","frontmatter":{},"headers":[],"relativePath":"Server/node/global.md"}',t={},a=d("",6),c=[a];function l(n,i,s,b,p,_){return r(),o("div",null,c)}var m=e(t,[["render",l]]);export{g as __pageData,m as default};

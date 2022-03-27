@@ -1,0 +1,1 @@
+import{_ as n,c as e,o as p,a as s}from"./app.9dbb06c5.js";const x='{"title":"npx \u5305\u8FD0\u884C\u547D\u4EE4","description":"","frontmatter":{},"headers":[],"relativePath":"Server/node/npx.md"}',o={},a=s("",24),t=[a];function r(c,i,d,l,g,u){return p(),e("div",null,t)}var v=n(o,[["render",r]]);export{x as __pageData,v as default};
