@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as l,a as o}from"./app.fa011131.js";var t="/assets/vue.7cc8740c.svg",c="/assets/vue.7de83110.png";const m='{"title":"Vue","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Framework/Vue/index.md"}',r={},n=o("",18),s=[n];function p(u,d,a,_,V,v){return l(),i("div",null,s)}var h=e(r,[["render",p]]);export{m as __pageData,h as default};

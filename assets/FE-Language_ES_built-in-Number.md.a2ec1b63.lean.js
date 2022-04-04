@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,a}from"./app.f1e974b0.js";const p='{"title":"Number","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/ES/built-in-Number.md"}',o={},c=a("",2),i=[c];function _(n,d,l,s,u,m){return r(),t("div",null,i)}var h=e(o,[["render",_]]);export{p as __pageData,h as default};

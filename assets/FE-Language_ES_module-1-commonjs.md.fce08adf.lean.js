@@ -1,0 +1,1 @@
+import{_ as e,c as r,o,a}from"./app.fa011131.js";const h='{"title":"CommonJS - Node.js","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/ES/module-1-commonjs.md"}',t={},n=a("",4),l=[n];function i(s,p,_,d,m,c){return o(),r("div",null,l)}var u=e(t,[["render",i]]);export{h as __pageData,u as default};

@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r}from"./app.f1e974b0.js";const f='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Browser/4-render/architecture.md"}',a={};function o(c,s,n,_,d,i){return r(),t("div")}var l=e(a,[["render",o]]);export{f as __pageData,l as default};

@@ -1,1 +1,0 @@
-import{_ as n,c as s,o as a,a as t}from"./app.f1e974b0.js";const m='{"title":"EventSource","description":"","frontmatter":{},"headers":[],"relativePath":"Network/EventSource.md"}',p={},o=t("",4),e=[o];function c(u,l,k,i,r,g){return a(),s("div",null,e)}var f=n(p,[["render",c]]);export{m as __pageData,f as default};

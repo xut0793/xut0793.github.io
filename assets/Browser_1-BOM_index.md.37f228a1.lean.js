@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as i}from"./app.f1e974b0.js";const B='{"title":"BOM","description":"","frontmatter":{},"headers":[],"relativePath":"Browser/1-BOM/index.md"}',o={},r=i("",5),l=[r];function s(n,c,_,d,p,h){return a(),t("div",null,l)}var M=e(o,[["render",s]]);export{B as __pageData,M as default};

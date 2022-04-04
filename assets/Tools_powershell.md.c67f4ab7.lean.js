@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as r,a as l}from"./app.fa011131.js";const m='{"title":"Powershell\u7F8E\u5316","description":"","frontmatter":{},"headers":[],"relativePath":"Tools/powershell.md"}',s={},t=l("",2),a=[t];function p(n,i,d,c,h,_){return r(),o("div",null,a)}var f=e(s,[["render",p]]);export{m as __pageData,f as default};

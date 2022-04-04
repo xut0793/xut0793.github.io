@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,a as t}from"./app.fa011131.js";const d='{"title":"axios\u6E90\u78015\uFF1ACancelToken \u53D6\u6D88\u8BF7\u6C42","description":"","frontmatter":{},"headers":[],"relativePath":"Network/axios/6-cancel-token.md"}',p={},o=t("",4),e=[o];function c(u,l,k,i,r,m){return a(),s("div",null,e)}var w=n(p,[["render",c]]);export{d as __pageData,w as default};

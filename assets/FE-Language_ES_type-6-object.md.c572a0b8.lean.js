@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as l,a as t}from"./app.f1e974b0.js";const _='{"title":"Object V8 \u5BF9\u8C61\u6A21\u578B","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/ES/type-6-object.md"}',a={},o=t("",27),p=[o];function i(n,s,c,h,u,b){return l(),r("div",null,p)}var m=e(a,[["render",i]]);export{_ as __pageData,m as default};

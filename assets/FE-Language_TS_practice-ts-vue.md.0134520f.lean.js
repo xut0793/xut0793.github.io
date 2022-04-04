@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,a}from"./app.fa011131.js";const d='{"title":"TS + Vue + Vuex \u73AF\u5883\u521D\u59CB\u5316","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/TS/practice-ts-vue.md"}',p={},n=a("",8),o=[n];function s(c,u,_,i,l,f){return r(),t("div",null,o)}var m=e(p,[["render",s]]);export{d as __pageData,m as default};

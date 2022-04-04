@@ -1,0 +1,1 @@
+import{_ as n,c as a,o as s,a as t}from"./app.fa011131.js";const m='{"title":"react-13: JSX","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Framework/React/react-13-JSX\u4F53\u9A8C.md"}',p={},o=t("",19),e=[o];function c(l,u,k,r,i,g){return s(),a("div",null,e)}var q=n(p,[["render",c]]);export{m as __pageData,q as default};

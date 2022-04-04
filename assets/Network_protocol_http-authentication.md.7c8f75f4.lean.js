@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,a}from"./app.fa011131.js";const g='{"title":"HTTP Authentication \u8BA4\u8BC1","description":"","frontmatter":{},"headers":[],"relativePath":"Network/protocol/http-authentication.md"}',o={},n=a("",2),i=[n];function l(p,h,c,s,_,T){return r(),t("div",null,i)}var m=e(o,[["render",l]]);export{g as __pageData,m as default};

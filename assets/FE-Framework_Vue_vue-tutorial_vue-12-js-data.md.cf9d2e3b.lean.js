@@ -1,1 +1,0 @@
-import{_ as a,c as n,o as s,a as t}from"./app.f1e974b0.js";const m='{"title":"15 data","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Framework/Vue/vue-tutorial/vue-12-js-data.md"}',e={},o=t("",5),p=[o];function c(r,d,l,u,i,k){return s(),n("div",null,p)}var f=a(e,[["render",c]]);export{m as __pageData,f as default};

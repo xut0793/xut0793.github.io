@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as l,a as o}from"./app.f1e974b0.js";const f='{"title":"Element-UI","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Framework/Element-UI/index.md"}',r={},i=o("",6),a=[i];function n(m,d,c,s,_,p){return l(),t("div",null,a)}var h=e(r,[["render",n]]);export{f as __pageData,h as default};

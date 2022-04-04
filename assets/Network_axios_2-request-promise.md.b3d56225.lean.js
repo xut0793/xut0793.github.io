@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,a as t}from"./app.fa011131.js";const m='{"title":"axios\u6E90\u78012\uFF1Arequest\u8BF7\u6C42\u5B9E\u73B0promise","description":"","frontmatter":{},"headers":[],"relativePath":"Network/axios/2-request-promise.md"}',p={},o=t("",6),c=[o];function e(u,i,l,k,r,f){return a(),s("div",null,c)}var h=n(p,[["render",e]]);export{m as __pageData,h as default};

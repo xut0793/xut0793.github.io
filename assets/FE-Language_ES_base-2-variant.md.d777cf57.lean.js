@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as i,a as t}from"./app.fa011131.js";const f='{"title":"\u53D8\u91CF","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/ES/base-2-variant.md"}',l={},_=t("",4),r=[_];function s(n,o,c,d,p,h){return i(),e("div",null,r)}var m=a(l,[["render",s]]);export{f as __pageData,m as default};

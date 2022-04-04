@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as t,a}from"./app.fa011131.js";const v='{"title":"vim \u6982\u5FF5\u7406\u89E3","description":"","frontmatter":{},"headers":[],"relativePath":"Tools/vim/concept.md"}',o={},l=a("",3),n=[l];function r(c,s,_,d,m,p){return t(),i("div",null,n)}var f=e(o,[["render",r]]);export{v as __pageData,f as default};
