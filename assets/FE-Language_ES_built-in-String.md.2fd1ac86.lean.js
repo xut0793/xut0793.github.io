@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as i,a as r}from"./app.9dbb06c5.js";const g='{"title":"String","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/ES/built-in-String.md"}',a={},n=r("",2),o=[n];function s(c,l,_,d,p,h){return i(),t("div",null,o)}var f=e(a,[["render",s]]);export{g as __pageData,f as default};

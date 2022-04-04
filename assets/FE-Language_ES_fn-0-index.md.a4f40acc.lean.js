@@ -1,1 +1,0 @@
-import{_ as l,c as i,o as e,a as t}from"./app.9dbb06c5.js";const f='{"title":"\u51FD\u6570\u77E5\u8BC6\u76EE\u5F55","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/ES/fn-0-index.md"}',a={},n=t("",4),r=[n];function u(o,c,s,_,d,p){return e(),i("div",null,r)}var m=l(a,[["render",u]]);export{f as __pageData,m as default};

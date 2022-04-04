@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,a as t}from"./app.f1e974b0.js";const g='{"title":"axios\u6E90\u78013\uFF1Aadapter \u9002\u914D\u5668","description":"","frontmatter":{},"headers":[],"relativePath":"Network/axios/3-adapter.md"}',p={},o=t("",7),c=[o];function e(u,l,k,i,r,f){return a(),s("div",null,c)}var m=n(p,[["render",e]]);export{g as __pageData,m as default};

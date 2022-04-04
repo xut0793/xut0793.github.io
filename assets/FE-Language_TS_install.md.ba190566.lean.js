@@ -1,1 +1,0 @@
-import{_ as e,c as s,o as t,a as n}from"./app.9dbb06c5.js";const g='{"title":"\u5B89\u88C5 Typescript","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/TS/install.md"}',a={},p=n("",14),c=[p];function o(i,r,l,d,_,u){return t(),s("div",null,c)}var T=e(a,[["render",o]]);export{g as __pageData,T as default};

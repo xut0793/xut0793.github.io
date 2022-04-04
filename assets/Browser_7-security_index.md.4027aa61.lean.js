@@ -1,1 +1,0 @@
-import{_ as e,c as i,o as t,a}from"./app.9dbb06c5.js";const h='{"title":"web \u5B89\u5168","description":"","frontmatter":{},"headers":[],"relativePath":"Browser/7-security/index.md"}',l={},r=a("",2),s=[r];function o(_,c,n,d,S,p){return t(),i("div",null,s)}var T=e(l,[["render",o]]);export{h as __pageData,T as default};

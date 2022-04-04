@@ -1,1 +1,0 @@
-import{_ as t,c as s,o as a,a as n}from"./app.9dbb06c5.js";const L='{"title":"\u6587\u6863\u58F0\u660E doctype","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/HTML/4-doctype.md"}',e={},o=n("",9),p=[o];function c(l,r,T,d,i,u){return a(),s("div",null,p)}var _=t(e,[["render",c]]);export{L as __pageData,_ as default};

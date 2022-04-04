@@ -1,0 +1,1 @@
+import{_ as n,c as s,o as a,a as p}from"./app.f1e974b0.js";const h='{"title":"vue-router \u8DEF\u7531\u5668","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Framework/Vue/vue-router/vue-router-1-index.md"}',t={},o=p("",3),e=[o];function r(c,l,u,i,k,d){return a(),s("div",null,e)}var m=n(t,[["render",r]]);export{h as __pageData,m as default};

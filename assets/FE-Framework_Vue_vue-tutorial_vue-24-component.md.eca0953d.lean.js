@@ -1,0 +1,1 @@
+import{_ as n,c as a,o as s,a as t}from"./app.f1e974b0.js";const m='{"title":"24 component \u7EC4\u4EF6","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Framework/Vue/vue-tutorial/vue-24-component.md"}',p={},o=t("",2),e=[o];function c(l,u,i,k,r,d){return s(),a("div",null,e)}var v=n(p,[["render",c]]);export{m as __pageData,v as default};

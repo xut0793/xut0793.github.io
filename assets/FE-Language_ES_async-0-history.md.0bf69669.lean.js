@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,a as t}from"./app.f1e974b0.js";const k='{"title":"\u5F02\u6B65\u7F16\u7A0B\u65B9\u5F0F\u7684\u6F14\u8FDB","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/ES/async-0-history.md"}',o={},c=t("",8),i=[c];function s(n,l,p,_,d,h){return r(),a("div",null,i)}var m=e(o,[["render",s]]);export{k as __pageData,m as default};

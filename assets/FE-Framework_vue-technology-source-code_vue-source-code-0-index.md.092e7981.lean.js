@@ -1,1 +1,0 @@
-import{_ as e,c as i,o as l,a as t}from"./app.9dbb06c5.js";const h='{"title":"Vue \u6E90\u7801\u5B66\u4E60","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Framework/vue-technology-source-code/vue-source-code-0-index.md"}',o={},c=t("",5),a=[c];function r(n,d,u,s,_,p){return l(),i("div",null,a)}var m=e(o,[["render",r]]);export{h as __pageData,m as default};

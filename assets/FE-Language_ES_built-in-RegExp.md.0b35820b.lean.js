@@ -1,1 +1,0 @@
-import{_ as e,c as l,o,a as c}from"./app.9dbb06c5.js";const g='{"title":"RegExp","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/ES/built-in-RegExp.md"}',i={},d=c("",3),a=[d];function t(_,r,p,n,s,u){return o(),l("div",null,a)}var x=e(i,[["render",t]]);export{g as __pageData,x as default};

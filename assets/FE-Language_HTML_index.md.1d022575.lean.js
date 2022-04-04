@@ -1,0 +1,1 @@
+import{_ as i,c as l,o as e,a as t}from"./app.f1e974b0.js";const f='{"title":"\u76EE\u5F55","description":"","frontmatter":{},"headers":[],"relativePath":"FE-Language/HTML/index.md"}',a={},o=t("",2),_=[o];function r(n,s,c,d,T,h){return e(),l("div",null,_)}var m=i(a,[["render",r]]);export{f as __pageData,m as default};
